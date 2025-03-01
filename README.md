@@ -26,8 +26,8 @@ Before running the project, ensure you have:
 🔹 Installation Steps:
 1. Clone the Repository
 
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+git clone https://github.com/CodeCipher324/secure_login_system.git
+cd secure_login_system
 
 2. Set Up a Virtual Environment
 
